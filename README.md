@@ -9,7 +9,7 @@ send messages from client side to the server side
 
 [] run `python client.py` in another terminal (pwsh)
 
-[] start sending messages from the client side.
+[] start sending messages from the terminal where `client.py` was run.
 
 # Modules used:
 
